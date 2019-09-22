@@ -20,7 +20,7 @@ description: General information about the Ticketer Bot
 
 * A command name is signified by \[commandName, commandAlias\]. This denotes that all command names in the `[]` server as the same command. In other words, `commandName` and `commandAlias` are the exact same command. Settings commands due to include their aliases that are started by `set` in the documentation, however, they do exist.
 * As mentioned above, `<>` denotes a **required** argument and `[]` denotes an **optional** argument. A default argument may be passed to an optional argument. This is denoted like so: `[foo="bar"]` where the argument would be **foo** and if nothing is supplied to the argument, foo is assigned a value of **"bar"**.
-* The current version of the bot allows for flexible command arguments when specifying discord based argument \(channels, users, roles, etc\). This means that if you wanted to pass `@twist` as an argument, you could pass one of the following: `[@twist, twist, twist#7777, 542709669211275296]`
+* The current version of the bot allows for flexible command arguments when specifying discord based arguments \(channels, users, roles, etc\). This means that if you wanted to pass `@twist` as an argument, you could pass one of the following: `[@twist, twist, twist#7777, 112762841173368832]`
 
 ### Command Argument Types
 
