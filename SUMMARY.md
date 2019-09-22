@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [General Information](README.md)
+* [Settings Command](settings-command.md)
 
