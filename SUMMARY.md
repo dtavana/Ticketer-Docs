@@ -1,5 +1,8 @@
 # Table of contents
 
 * [General Information](README.md)
-* [Settings Command](settings-command.md)
+
+## Settings Commands
+
+* [Premium Commands](settings-commands/premium-commands.md)
 
